@@ -1,9 +1,9 @@
 package fi.hollannikas.fizzbuzz
 
 fun main(args: Array<String>) {
-    println(fizzBuzz(24))
+    println(fizzBuzz(listOf(1, 2, 3, 4, 5)))
 }
 
-fun fizzBuzz(i: Int): String {
+fun fizzBuzz(integers: List<Int>): String {
     TODO("implement!!")
 }
