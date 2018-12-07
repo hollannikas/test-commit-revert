@@ -13,6 +13,6 @@ This may help you to commit shorter changes
 ## How
 
 - Program
-- Run `test.sh`
+- Run `tcr.sh`
 - If it works, you get a commit
 - If it fails, your changes are reverted
